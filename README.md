@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rush Brush**
 
-- 🌱 I’m currently learning **Project Management && Leadership**
+- 🌱 I’m currently learning **Flutter && Leadership**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
