@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sabry</h1>
 <h3 align="center">A Passionate Mobile Developer From Egypt</h3>
 
-- 🔭 I’m currently working on **Rush Brush**
-
+<!-- - 🔭 I’m currently working on **Rush Brush**
+ -->
 - 🌱 I’m currently learning **Flutter && Leadership**
 
 - 👯 I’m looking to collaborate on **New Projects**
