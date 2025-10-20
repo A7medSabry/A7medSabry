@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Rush Brush**
  -->
-- 🌱 I’m currently learning **Flutter && MBA**
+- 🌱 I’m currently learning **Data Science && MBA**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
