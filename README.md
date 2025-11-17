@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmedsabrymohammed](https://www.linkedin.com/in/ahmedsabrymohammed)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **Mobile Development, Business, and Project Management **
 
 - 📫 How to reach me **ahmedsabrymohammed12@gmail.com**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedsabrymohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmedsabrymohammed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100007526478345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007526478345" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0_ahmedsabry_0/?fbclid=iwar1m0mxmmfsn-vmhwhvduphdt_bhkszsawtgm_agz36mxm-0rkv1mt5rp8q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_ahmedsabry_0/?fbclid=iwar1m0mxmmfsn-vmhwhvduphdt_bhkszsawtgm_agz36mxm-0rkv1mt5rp8q" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmed.sabry.world/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_ahmedsabry_0/?fbclid=iwar1m0mxmmfsn-vmhwhvduphdt_bhkszsawtgm_agz36mxm-0rkv1mt5rp8q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
