@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmedsabrymohammed](https://www.linkedin.com/in/ahmedsabrymohammed)
 
-- 💬 Ask me about **Mobile Development, Business, and Project Management **
+- 💬 Ask me about **Mobile Development, Business, and Project Management**
 
 - 📫 How to reach me **ahmedsabrymohammed12@gmail.com**
 
